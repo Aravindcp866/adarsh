@@ -1,0 +1,20 @@
+*{margin: 0px;
+padding: 0px;}
+@media screen and (min-width: 393px){.navbar-nav{float: left;}
+
+style{width:393px;}
+.hi{
+float:right;
+color: red;}}
+
+/* .ebg{background-color:black;} */
+
+.h41{color: red;}
+h1{color: blue;}
+.gold{color: #fac71f;}
+
+.right{margin-left: 122px;
+text-decoration-style:wavy;}
+.img2{
+width: 330px;height: 360px;}
+
